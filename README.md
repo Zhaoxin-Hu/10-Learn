@@ -1,6 +1,7 @@
 # 10-Learn
 ## Computer Language
 1. r markdown
+1. perform symbolic computation with python
 
 ## Control System
 1. How to build a ctrl sys with python?
