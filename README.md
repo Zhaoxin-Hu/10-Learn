@@ -16,3 +16,13 @@
 
 ## RF
 1. How to match a PA?
+
+## ECE264A
+1. ctrl sys
+1. freq resp of CS amp w all ex caps
+1. why OCTC works
+1. diff to single-ended amps
+1. folded cascode
+1. blackman
+1. RR
+1. 
