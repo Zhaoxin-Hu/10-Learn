@@ -25,4 +25,6 @@
 1. folded cascode
 1. blackman
 1. RR
-1. 
+1. feedback from ctrl sys
+1. stability (stab margins, Nyquist)
+1. compensation
