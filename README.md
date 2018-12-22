@@ -28,3 +28,8 @@
 1. feedback from ctrl sys
 1. stability (stab margins, Nyquist)
 1. compensation
+
+## What I've learned and plan to focus
+1. TTC Analysis
+1. I want to know if there's a faster way to write out the transfer constants in a resistive network (start with the form similar to TTC)
+1. there seems to be a connection between controlled sources, return ratio, and source absorption theorem
