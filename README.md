@@ -6,6 +6,10 @@
 ## Control System
 1. How to build a ctrl sys with python?
 
+## Circuits and Systems
+1. memristor
+1. 
+
 ## IC
 1. How to analyze noise?
 1. How to layout?
